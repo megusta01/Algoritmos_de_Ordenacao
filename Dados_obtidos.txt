@@ -1,0 +1,75 @@
+ORDENANDO NÚMEROS ALEATÓRIOS:
+[100, 500, 1000, 5000, 30000, 80000, 100000, 150000, 200000]
+_________________________________________
+
+Bubble Sort - 100: 7.22ms
+Selection Sort - 100: 0.543ms
+Insertion Sort - 100: 0.264ms
+Merge Sort - 100: 0.428ms
+Quick Sort - 100: 0.283ms
+Counting Sort - 100: 0.32ms
+=========================================
+
+Bubble Sort - 500: 1.433ms
+Selection Sort - 500: 4.202ms
+Insertion Sort - 500: 3.341ms
+Merge Sort - 500: 0.922ms
+Quick Sort - 500: 0.796ms
+Counting Sort - 500: 0.66ms
+=========================================
+
+Bubble Sort - 1000: 5.42ms
+Selection Sort - 1000: 3.818ms
+Insertion Sort - 1000: 2.74ms
+Merge Sort - 1000: 1.901ms
+Quick Sort - 1000: 0.53ms
+Counting Sort - 1000: 0.252ms
+=========================================
+
+Bubble Sort - 5000: 60.737ms
+Selection Sort - 5000: 20.602ms
+Insertion Sort - 5000: 9.555ms
+Merge Sort - 5000: 9.306ms
+Quick Sort - 5000: 1.98ms
+Counting Sort - 5000: 5.478ms
+=========================================
+
+Bubble Sort - 30000: 2.329s
+Selection Sort - 30000: 786.778ms
+Insertion Sort - 30000: 422.961ms
+Merge Sort - 30000: 38.928ms
+Quick Sort - 30000: 29.005ms
+Counting Sort - 30000: 20.873ms
+=========================================
+
+Bubble Sort - 80000: 16.056s
+Selection Sort - 80000: 5.126s
+Insertion Sort - 80000: 2.613s
+Merge Sort - 80000: 141.929ms
+Quick Sort - 80000: 57.048ms
+Counting Sort - 80000: 11.887ms
+=========================================
+
+Bubble Sort - 100000: 25.808s
+Selection Sort - 100000: 8.381s
+Insertion Sort - 100000: 4.237s
+Merge Sort - 100000: 237.184ms
+Quick Sort - 100000: 107.723ms
+Counting Sort - 100000: 5.98ms
+=========================================
+
+Bubble Sort - 150000: 56.992s
+Selection Sort - 150000: 18.459s
+Insertion Sort - 150000: 9.164s
+Merge Sort - 150000: 315.403ms
+Quick Sort - 150000: 126.343ms
+Counting Sort - 150000: 22.696ms
+=========================================
+
+Bubble Sort - 200000: 1:40.826 (m:ss.mmm)
+Selection Sort - 200000: 32.588s
+Insertion Sort - 200000: 16.128s
+Merge Sort - 200000: 376.302ms
+Quick Sort - 200000: 238.743ms
+Counting Sort - 200000: 45.846ms
+=========================================
